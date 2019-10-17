@@ -1,0 +1,9 @@
+D:\VisualStudio\C#\DummyCSharp\DummyCSharp\bin\Debug\DummyCSharp.exe.config
+D:\VisualStudio\C#\DummyCSharp\DummyCSharp\bin\Debug\DummyCSharp.exe
+D:\VisualStudio\C#\DummyCSharp\DummyCSharp\bin\Debug\DummyCSharp.pdb
+D:\VisualStudio\C#\DummyCSharp\DummyCSharp\obj\Debug\DummyCSharp.csprojAssemblyReference.cache
+D:\VisualStudio\C#\DummyCSharp\DummyCSharp\obj\Debug\DummyCSharp.Form1.resources
+D:\VisualStudio\C#\DummyCSharp\DummyCSharp\obj\Debug\DummyCSharp.Properties.Resources.resources
+D:\VisualStudio\C#\DummyCSharp\DummyCSharp\obj\Debug\DummyCSharp.csproj.GenerateResource.cache
+D:\VisualStudio\C#\DummyCSharp\DummyCSharp\obj\Debug\DummyCSharp.exe
+D:\VisualStudio\C#\DummyCSharp\DummyCSharp\obj\Debug\DummyCSharp.pdb
